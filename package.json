@@ -1,0 +1,27 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "A coomand-line application that manages a company's employee database, using Node.js, Inquirer, and MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyushManiSharma/Employee-Tracker.git"
+  },
+  "keywords": [
+    "Employee",
+    "Tracker"
+  ],
+  "author": "Ayush Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AyushManiSharma/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/AyushManiSharma/Employee-Tracker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "node": "^20.7.0"
+  }
+}
