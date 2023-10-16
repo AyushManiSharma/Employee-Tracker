@@ -5,6 +5,9 @@ A program that lists out the employees, their titles, and the department they wo
 
 Ability to enter new employees, professions, and salaries. The Ablity to sort through each information in a categorical way using MySQL
 
+Displaying information will be highlited in white
+Adding or Removing data will be highlited in red
+
 ## License
 MIT License
 
